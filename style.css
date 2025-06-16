@@ -50,3 +50,14 @@ body {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
   }
+
+  @media (max-width: 600px) {
+    #contador {
+      padding: 15px;
+      font-size: 16px;
+      line-height: 1.4;
+      margin: 10px;
+      border-radius: 12px;
+    }
+  }
+  
