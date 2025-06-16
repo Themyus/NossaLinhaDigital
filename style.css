@@ -1,0 +1,52 @@
+body {
+    font-family: 'Cormorant Garamond', serif;
+    background: #fff0f5;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .titulo {
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  #contador {
+    background: #ffffff;
+    border: 2px solid #ff99cc;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 1.7rem;
+    color: #cc0066;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .carta-consagracao {
+    text-align: center;
+  }
+
+  .carta-consagracao .pg1 {
+    width: 250px;
+    height: 350px;
+    margin-right: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  .carta-consagracao .pg2 {
+    width: 250px;
+    height: 350px;
+    margin-right: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  .carta-consagracao .pg3 {
+    width: 250px;
+    height: 350px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+
+  .datas {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
